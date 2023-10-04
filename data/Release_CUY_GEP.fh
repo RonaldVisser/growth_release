@@ -1,0 +1,51 @@
+HEADER:
+KeyCode=GEP00281
+Length=53
+DateEnd=346
+DateBegin=294
+Location=Gennep01: Waterput (GEME 89) plank uit WP: 10 Sp: 38 Vl:  Vnr: 28
+Species=QUSP
+SapWoodRings=
+PersID=PvR
+DATA:Tree
+   213   196   277   299   189   201   216   228   223   334
+   149   217   339   252   214   229   277   265   226   179
+   171   147   172   241   229   228   256   158   221   222
+   582   426   293   415   327   236   318   369   328   268
+   135   240   181   146   177   254   187   236   198   247
+   346   477   444     0     0     0     0     0     0     0
+HEADER:
+KeyCode=CUY01091
+Length=68
+DateEnd=318
+DateBegin=251
+Location=Cuijk01: Gebied 6000; loskade paal uit WP:  Sp:  Vl:  Vnr: 128
+Species=QUSP
+SapWoodRings=11
+PersID=TV
+DATA:Tree
+   119   108   123    92    75    62    58    65    72    72
+   109    64    42    50    74    90   108    98    90    86
+    92    80   104   112   104   100    54    58    36    48
+    96   141   122   126   132    90    58    60   104    82
+   100   105   100    87   106   104    70    62   102   102
+    76    64   112   103    86   134   127   109   128   126
+   152    86    90    50    70    70   110   122     0     0
+HEADER:
+KeyCode=CUY01031
+Length=75
+DateEnd=323
+DateBegin=249
+Location=Cuijk01: Gebied 6000; loskade paal uit WP:  Sp:  Vl:  Vnr: 113
+Species=QUSP
+SapWoodRings=16
+PersID=TV
+DATA:Tree
+    88   106   156   116   168   194   189   154   108   129
+   108   114   148   118   162   109   118   168   185   203
+   222   186   162   152   152   200   193   212   175   167
+   109   110   174   166   116   140   139   114    68   116
+   148   119   140   171   130    87   112   113    73    82
+   159   122   132    98   180   139   104   152   168   112
+   142   126   106   100    93    56    68    78   104    93
+    62    78    78    60    50     0     0     0     0     0
