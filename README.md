@@ -1,5 +1,5 @@
 
-# Growth release
+# Growth release in late Roman tree-ring material
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8405496.svg)](https://doi.org/10.5281/zenodo.8405496)
 
